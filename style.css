@@ -9,3 +9,8 @@ h1{
 h5{
   font-style: italic;
 }
+
+h6{
+  border: 1px solid red;
+  padding-bottom: 10px;
+}
